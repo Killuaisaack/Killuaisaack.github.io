@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://killuaisaack.github.io/</id>
+    <title>Killuaisaack&apos;s world</title>
+    <updated>2021-05-15T03:32:55.088Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://killuaisaack.github.io/"/>
+    <link rel="self" href="https://killuaisaack.github.io/atom.xml"/>
+    <subtitle>life isn&apos;t just about passing on your genes.we can leave behind much more than just DNA.Through speech,music,literature and movies,what we&apos;ve seen,heard,felt anger,joy and sorrow.these are the things i will pass on.That&apos;s what i live for.we need to pass the torch,and let our children read our messy and sad history by its light.we have all the magic of the digital age to do that with.the human race will probably come to an end some time,and nee species may rule over this planet.Earth may not be forever,but we still.have the responsibility to leave what traces of life we can.Building the future and keeping the past alive are one and the same thing.</subtitle>
+    <logo>https://killuaisaack.github.io/images/avatar.png</logo>
+    <icon>https://killuaisaack.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Killuaisaack&apos;s world</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://killuaisaack.github.io/post/hello-gridea/</id>
+        <link href="https://killuaisaack.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
