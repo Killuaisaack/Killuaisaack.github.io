@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to My world!
+## About me
+I me a University student who deeply abandon oneself to comic,game and animation.Anyway,I love Eunectes forever!
 
-You can use the [editor on GitHub](https://github.com/Killuaisaack/Killuaisaack.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Why I found this pages?
+I just want to establish a world that only belongs to me.Sometimes I can let my spirit keep away from the reality and take a break here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My always devoting to
+life isn't just about passing on your genes.we can leave behind much more than just DNA.Through speech,music,literature and movies,what we've seen,heard,felt anger,joy and sorrow.these are the things i will pass on.That's what i live for.we need to pass the torch,and let our children read our messy and sad history by its light.we have all the magic of the digital age to do that with.the human race will probably come to an end some time,and nee species may rule over this planet.Earth may not be forever,but we still.have the responsibility to leave what traces of life we can.Building the future and keeping the past alive are one and the same thing.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Killuaisaack/Killuaisaack.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact with me?
+I usually name myself Killuaisaack or Sly blue.I consist in the every corner of the Internet.
